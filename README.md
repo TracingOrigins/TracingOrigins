@@ -1,9 +1,9 @@
 
 
-### Hi there 👋, I'm Liu Qingjun.
+### Hi there 👋, I'm Kevin.
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
+- 🌱 I’m currently learning everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: [liuqjit@163.com](mailto:liuqjit@163.com)
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/TracingOrigins)
