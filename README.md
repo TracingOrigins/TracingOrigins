@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Liu Qingjun 👋
+### Hi there 👋, I'm Liu Qingjun.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
